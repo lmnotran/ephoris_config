@@ -1,4 +1,3 @@
-require('config/auto-dark-mode')
 require('config/indent-blankline')
 require('config/lualine')
 require('config/lsp')

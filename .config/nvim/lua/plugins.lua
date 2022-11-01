@@ -11,7 +11,6 @@ require('packer').startup(function(use)
     use 'wbthomason/packer.nvim'
 
     -- Display
-    use 'f-person/auto-dark-mode.nvim'
     use 'sainnhe/gruvbox-material'
     use 'sainnhe/everforest'
     use 'kyazdani42/nvim-web-devicons'
